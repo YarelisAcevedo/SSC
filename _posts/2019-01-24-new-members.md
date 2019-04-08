@@ -12,4 +12,4 @@ You can just fill it out here:
 
  **Warning This is still under development**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiLn3tY8Nayj7uOOT3yCTUmQP1AIRBOcievk2r9sAlsBXpvg/viewform?embedded=true" width="680" height="1199" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiLn3tY8Nayj7uOOT3yCTUmQP1AIRBOcievk2r9sAlsBXpvg/viewform?embedded=true" width="100%" height="1400px" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
